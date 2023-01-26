@@ -1,1 +1,5 @@
 temp/
+*_old
+*_backup
+Thumbs.db
+.Ds_Store
