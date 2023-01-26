@@ -1,5 +1,5 @@
 temp/
-*_old
-*_backup
+*.*old
+*.*backup
 Thumbs.db
 .Ds_Store
